@@ -17,7 +17,7 @@ Translator Phone слушает речь, переводит и произнос
 - Сайт приложения: [translatorphone.net](https://translatorphone.net/ru/)
 - Разработчик: [VelikSoft Limited](https://veliksoft.com)
 - Политика конфиденциальности: [veliksoft.com/privacy](https://veliksoft.com/privacy)
-- Поддержка: [admin@veliksoft.com](mailto:admin@veliksoft.com)
+- Поддержка: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
 
 ---
 

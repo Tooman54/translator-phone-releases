@@ -17,7 +17,7 @@ Translator Phone listens, translates and speaks the translation aloud — face t
 - App website: [translatorphone.net](https://translatorphone.net/)
 - Developer: [VelikSoft Limited](https://veliksoft.com/en)
 - Privacy policy: [veliksoft.com/en/privacy](https://veliksoft.com/en/privacy)
-- Support: [admin@veliksoft.com](mailto:admin@veliksoft.com)
+- Support: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
 
 ---
 
